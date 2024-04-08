@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución",
 		informacionAdd.txt = informacionAdd.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase20240405", "Clase20240405\Clase20240405.csproj", "{A7CC44BF-949B-4156-AA26-A5F975552346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase20240405.Examen", "Clase20240405.Examen\Clase20240405.Examen.csproj", "{444F2516-3AEA-4B25-A594-FAD62A5EBBA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{742F4D3C-8C39-4EB4-B28F-4E71C283BF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{742F4D3C-8C39-4EB4-B28F-4E71C283BF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{742F4D3C-8C39-4EB4-B28F-4E71C283BF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7CC44BF-949B-4156-AA26-A5F975552346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CC44BF-949B-4156-AA26-A5F975552346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CC44BF-949B-4156-AA26-A5F975552346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CC44BF-949B-4156-AA26-A5F975552346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444F2516-3AEA-4B25-A594-FAD62A5EBBA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444F2516-3AEA-4B25-A594-FAD62A5EBBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444F2516-3AEA-4B25-A594-FAD62A5EBBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444F2516-3AEA-4B25-A594-FAD62A5EBBA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
