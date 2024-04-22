@@ -1,0 +1,36 @@
+﻿    1. División entre cero:
+        ◦ Crea una función llamada Dividir que acepte dos números enteros como parámetros.
+        ◦ En la función, intenta dividir el primer número por el segundo número.
+        ◦ Si el segundo número es cero, lanza una excepción DivideByZeroException.
+        ◦ Maneja esta excepción en el programa principal e imprime un mensaje indicando que la división entre cero no está permitida.
+    2. Operación inválida en lista vacía:
+        ◦ Crea una clase ManejadorLista que tenga una lista de enteros como campo privado.
+        ◦ Agrega un método EliminarElemento que elimine el último elemento de la lista.
+        ◦ En el método EliminarElemento, verifica si la lista está vacía antes de intentar eliminar un elemento.
+        ◦ Si la lista está vacía, lanza una excepción InvalidOperationException.
+        ◦ En el programa principal, agrega elementos a la lista y luego intenta eliminar un elemento más veces de las que hay en la lista para provocar la excepción.
+    3. Conversión de cadena a número:
+        ◦ Crea una función llamada ConvertirNumero que acepte una cadena como parámetro.
+        ◦ Dentro de la función, intenta convertir la cadena en un número entero utilizando int.Parse.
+        ◦ Maneja la excepción FormatException que puede ocurrir si la cadena no representa un número válido.
+        ◦ En el programa principal, llama a esta función con una cadena que no sea un número para provocar la excepción.
+    4. Acceso a índice fuera del rango:
+        ◦ Crea una clase Arreglo que tenga un arreglo de enteros como campo privado.
+        ◦ Agrega un método ObtenerElemento que acepte un índice como parámetro y devuelva el elemento en ese índice del arreglo.
+        ◦ En el método ObtenerElemento, verifica si el índice está dentro del rango válido del arreglo.
+        ◦ Si el índice está fuera del rango, lanza una excepción IndexOutOfRangeException.
+        ◦ En el programa principal, intenta acceder a un índice mayor que la longitud del arreglo para provocar la excepción.
+    5. División con valores inválidos:
+        ◦ Crea una función llamada DividirNumeros que acepte dos números enteros como parámetros.
+        ◦ En la función, verifica si alguno de los números es negativo.
+        ◦ Si alguno de los números es negativo, lanza una excepción ArgumentException con un mensaje descriptivo.
+        ◦ En el programa principal, llama a esta función con al menos un número negativo para provocar la excepción.
+
+
+
+
+
+
+
+
+
