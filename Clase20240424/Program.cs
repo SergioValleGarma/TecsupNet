@@ -3,7 +3,7 @@ using Clase20240424;
 
 Console.WriteLine("Hello, World!");
 
-Calculador calculador = new Calculador(new Cuadrado { lado = 10});
+Calculador calculador = new Calculador(new Cuadrado { lado = 20});
 Calculador calculador2 = new Calculador(new Circulo { radio = 10 });
 
 //IFigura figura = new Cuadrado();
